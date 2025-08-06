@@ -1,0 +1,137 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    justify-content: center;
+}
+.container{
+    width: 1440px;
+    height: 82px;
+    alignment-baseline: 0 deg;
+    opacity: 1;
+    background-color: blue;
+    display: flex;
+    justify-content: right;
+    padding: 20px;
+    gap: 30px;
+}
+.aa{
+    width: 30px;
+    height: 30px;
+    top: 26px;
+    left: 1027px;
+    opacity: 1;
+    gap: 100px;
+}
+.bb{
+    width: 192px;
+    height: 82px;
+    left: 1191px;
+    opacity: 1;
+}
+.cc{
+    width: 56px;
+    height: 46px;
+    justify-content: start;
+}
+.menu{
+    width: 1440px;
+    height: 44px;
+    top: 82px;
+    opacity: 1;
+    background-color: #222222;
+    
+    display: flex;
+    justify-content: center;
+    top: 82px;
+    gap: 80px;
+    color: white;
+    padding: 11px;
+}
+.orqarasm{
+    width: 1440px;
+    height: 797px;
+    top: 126px;
+    alignment-baseline: 0 deg;
+    opacity: 1px;
+    background-image: url(pubg.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    gap: -100px;
+}
+.pc-boxxx {
+    background-color: black;
+    color: white;              
+    font-size: 48px;           
+    text-align: center;        
+    padding: 20px 40px;           
+    margin: auto;              
+    width: 235px;
+    height: 73px;
+    top: 475px;
+    left: 453px;display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.pc-box {
+    background-color: #F1A900;
+    color: black;              
+    font-size: 48px;           
+    text-align: center;        
+    padding: 20px 40px;           
+    margin: auto;              
+    width: 235px;
+    height: 73px;
+    top: 475px;
+    left: 453px;display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.h1111{
+    background-color: #F1A90054;
+    color: white;              
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 64px; 
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;    
+    text-align: center;        
+    padding: 20px 40px;           
+    margin: auto;              
+    width: 235px;
+    height: 73px;
+    top: 475px;
+    left: 453px;display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.zz{
+    width: 24px;
+    height: 24px;
+    top: 959px;
+    left: 1164px;
+
+
+}
+.cnttr{
+     width: 1440px;
+    height: 82px;
+    alignment-baseline: 0 deg;
+    opacity: 1;
+    background-color: black;
+    display: flex;
+    justify-content: right;
+    padding: 20px;
+    gap: 50px;
+}
